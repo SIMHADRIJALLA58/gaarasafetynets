@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "gaarasafetynets.vercel.app"
+        }
+      ],
+      "destination": "https://gaarasafetynets.in/$1",
+      "permanent": true
+    }
+  ]
+}
