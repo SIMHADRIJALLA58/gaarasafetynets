@@ -323,7 +323,7 @@ Requirement: ${message || "Please share the details."}
 Thank you.`;
 
 
-            const whatsappNumber = "919121904501";
+            const whatsappNumber = "918197344462";
 
 
             const whatsappURL =
@@ -485,7 +485,7 @@ document.getElementById("lasyaContactForm").addEventListener("submit", function 
         return;
     }
 
-    const whatsappNumber = "919121904501";
+    const whatsappNumber = "918197344462";
 
     const whatsappMessage =
         "Hello Gaara Safety Nets!\n\n" +
